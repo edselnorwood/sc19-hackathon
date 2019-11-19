@@ -10,7 +10,7 @@ def get_data(url, filename):
     data_list = csv_to_list(cr)
     headers = get_headers(data_list)
     datatree_ready = create_datatree(data_list, headers)
-    print (datatree_ready.describe())
+    return (datatree_ready)
 
 def decode(re, format="utf"):
     return (re.content.decode(format))
