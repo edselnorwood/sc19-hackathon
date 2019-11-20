@@ -1,9 +1,10 @@
 ## Getting Started
 
 ### Prerequisities
-**pyCHORDS** is set of Python tools
+#### Required for **pyCHORDS**
 * `pandas` - manage DOIs for ESS-DIVE data packages
 * `datetime`- manage ESS-DIVE data packages
+#### Required for **user_form.ipynb**
 * `time` - manage permissions_update for ESS-DIVE data packages
 * `calendar` - Retire an ESS-DIVE data package 
 * `plotly` - Update replication policy for a data package
