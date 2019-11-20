@@ -14,4 +14,4 @@
 
 pyCHORDS can be installed via pip using the following command (or run the following cell):
 
-    $ pip3 install git+https://github.com/edselnorwood/pychords.git
+    $ pip3 install git+https://github.com/edselnorwood/sc19-hackathon.git
