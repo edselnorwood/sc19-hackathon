@@ -3,8 +3,8 @@ import numpy as np
 import requests
 import csv
 
-def get_data(url, filename):
-    r = requests.get(url)
+def get_data(base_url, filename):
+    r = requests.get(base_url)
     decoded_re = decode(r)
     cr = to_csv(decoded_re)
     data_list = csv_to_list(cr)
