@@ -2,12 +2,12 @@
 
 ### Prerequisities
 #### Required for **pyCHORDS**
-* `pandas` - manage DOIs for ESS-DIVE data packages
-* `datetime`- manage ESS-DIVE data packages
+* `pandas`
+* `datetime`
 #### Required for **user_form.ipynb**
-* `time` - manage permissions_update for ESS-DIVE data packages
-* `calendar` - Retire an ESS-DIVE data package 
-* `plotly` - Update replication policy for a data package
+* `time`
+* `calendar`
+* `plotly`
 * Python (>= 3.x)
 
 ### Get the code
